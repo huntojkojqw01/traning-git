@@ -5,3 +5,4 @@ commit: luu lai trang thai
 pull : thu tao xung dot
 olala
 cao cao la tre
+cao thu vo lam
