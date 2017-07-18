@@ -2,3 +2,4 @@ den ca con khi cung hieu duoc git
 them kame
 add: them giai thich
 commit: luu lai trang thai
+pull : thu tao xung dot
